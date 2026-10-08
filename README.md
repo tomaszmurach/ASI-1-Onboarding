@@ -2,10 +2,10 @@
 
 To repozytorium służy do pracy podczas **dwojga pierwszych zajęć** z przedmiotu *Architektury rozwiązań i wdrożeń*.
 
-Na początku pracujemy indywidualnie. 
-Chcemy upewnić się, że kazdy ma działające środowisko, 
-potrafi uruchomić notebook od początku do końca 
-i umie zapisać swoją pracę w GitHubie. 
+Na początku pracujemy indywidualnie.
+Chcemy upewnić się, że kazdy ma działające środowisko,
+potrafi uruchomić notebook od początku do końca
+i umie zapisać swoją pracę w GitHubie.
 Od trzecich zajęć zaczniemy pracę zespołową nad właściwym projektem semestralnym.
 
 ## Wybierz sposób pracy
@@ -15,7 +15,7 @@ Masz do wyboru dwie wspierane ścieżki:
 - **lokalnie:** conda/Miniforge + VS Code,
 - **Codespaces:** gotowe środowisko z pliku `.devcontainer/devcontainer.json`.
 
-Instrukcje poniżej dotyczą pracy lokalnej. Jeśli lokalne środowisko nie działa mimo próby rozwiązania problemu, przejdź na Codespaces. 
+Instrukcje poniżej dotyczą pracy lokalnej. Jeśli lokalne środowisko nie działa mimo próby rozwiązania problemu, przejdź na Codespaces.
 Nie musisz czekać z pracą na zajęciach.
 
 ## Praca lokalna
@@ -142,5 +142,5 @@ Nie wysyłaj samego zrzutu ekranu z fragmentem błędu.
 
 ## Drugie zajęcia
 
-Na drugich zajęciach domkniemy workflow od danych do pierwszego modelu oraz dołożymy pracę na gałęzi i Pull Request. 
+Na drugich zajęciach domkniemy workflow od danych do pierwszego modelu oraz dołożymy pracę na gałęzi i Pull Request.
 Szczegółowa instrukcja pojawi się wraz z drugim notebookiem.
